@@ -1,4 +1,4 @@
-# Coding Interview University
+det# Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
@@ -54,14 +54,7 @@
 
 </details>
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
-
+<details>
 ## What is it?
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
@@ -85,6 +78,8 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ---
 
+</details>
+<details>
 ## Table of Contents
 
 ### The Study Plan
@@ -105,61 +100,60 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ### Topics of Study
 
-- [Coding Interview University](#coding-interview-university)
-  - [What is it?](#what-is-it)
-  - [Table of Contents](#table-of-contents)
-    - [The Study Plan](#the-study-plan)
-    - [Topics of Study](#topics-of-study)
-    - [Getting the Job](#getting-the-job)
-    - [Optional Extra Topics \& Resources](#optional-extra-topics--resources)
-  - [Why use it?](#why-use-it)
-  - [How to use it](#how-to-use-it)
-    - [If you don't want to use git](#if-you-dont-want-to-use-git)
-    - [If you're comfortable with git](#if-youre-comfortable-with-git)
-  - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-  - [A Note About Video Resources](#a-note-about-video-resources)
-  - [Choose a Programming Language](#choose-a-programming-language)
-    - [For this Study Plan](#for-this-study-plan)
-    - [For your Coding Interview](#for-your-coding-interview)
-  - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
-    - [C](#c)
-    - [Python](#python)
-    - [Java](#java)
-    - [C++](#c-1)
-  - [Interview Prep Books](#interview-prep-books)
-    - [If you have tons of extra time:](#if-you-have-tons-of-extra-time)
-  - [Don't Make My Mistakes](#dont-make-my-mistakes)
-    - [1. You Won't Remember it All](#1-you-wont-remember-it-all)
-    - [2. Use Flashcards](#2-use-flashcards)
-    - [3. Do Coding Interview Questions While You're Learning](#3-do-coding-interview-questions-while-youre-learning)
-    - [4. Focus](#4-focus)
-  - [What you won't see covered](#what-you-wont-see-covered)
-  - [The Daily Plan](#the-daily-plan)
-  - [Coding Question Practice](#coding-question-practice)
-  - [Coding Problems](#coding-problems)
-  - [Let's Get Started](#lets-get-started)
-  - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-  - [Data Structures](#data-structures)
-  - [More Knowledge](#more-knowledge)
-  - [Trees](#trees)
-  - [Sorting](#sorting)
-  - [Graphs](#graphs)
-  - [Even More Knowledge](#even-more-knowledge)
-  - [Final Review](#final-review)
-  - [Update Your Resume](#update-your-resume)
-  - [Interview Process \& General Interview Prep](#interview-process--general-interview-prep)
-  - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
-  - [Have questions for the interviewer](#have-questions-for-the-interviewer)
-  - [Once You've Got The Job](#once-youve-got-the-job)
-  - [Additional Books](#additional-books)
-  - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling)
-  - [Additional Learning](#additional-learning)
-  - [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
-  - [Video Series](#video-series)
-  - [Computer Science Courses](#computer-science-courses)
-  - [Algorithms implementation](#algorithms-implementation)
-  - [Papers](#papers)
-  - [LICENSE](#license)
+- [What is it?](#what-is-it)
+- [Table of Contents](#table-of-contents)
+  - [The Study Plan](#the-study-plan)
+  - [Topics of Study](#topics-of-study)
+  - [Getting the Job](#getting-the-job)
+  - [Optional Extra Topics \& Resources](#optional-extra-topics--resources)
+- [Why use it?](#why-use-it)
+- [How to use it](#how-to-use-it)
+  - [If you don't want to use git](#if-you-dont-want-to-use-git)
+  - [If you're comfortable with git](#if-youre-comfortable-with-git)
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [A Note About Video Resources](#a-note-about-video-resources)
+- [Choose a Programming Language](#choose-a-programming-language)
+  - [For this Study Plan](#for-this-study-plan)
+  - [For your Coding Interview](#for-your-coding-interview)
+- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+  - [C](#c)
+  - [Python](#python)
+  - [Java](#java)
+  - [C++](#c-1)
+- [Interview Prep Books](#interview-prep-books)
+  - [If you have tons of extra time:](#if-you-have-tons-of-extra-time)
+- [Don't Make My Mistakes](#dont-make-my-mistakes)
+  - [1. You Won't Remember it All](#1-you-wont-remember-it-all)
+  - [2. Use Flashcards](#2-use-flashcards)
+  - [3. Do Coding Interview Questions While You're Learning](#3-do-coding-interview-questions-while-youre-learning)
+  - [4. Focus](#4-focus)
+- [What you won't see covered](#what-you-wont-see-covered)
+- [The Daily Plan](#the-daily-plan)
+- [Coding Question Practice](#coding-question-practice)
+- [Coding Problems](#coding-problems)
+- [Let's Get Started](#lets-get-started)
+- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [Data Structures](#data-structures)
+- [More Knowledge](#more-knowledge)
+- [Trees](#trees)
+- [Sorting](#sorting)
+- [Graphs](#graphs)
+- [Even More Knowledge](#even-more-knowledge)
+- [Final Review](#final-review)
+- [Update Your Resume](#update-your-resume)
+- [Interview Process \& General Interview Prep](#interview-process--general-interview-prep)
+- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
+- [Have questions for the interviewer](#have-questions-for-the-interviewer)
+- [Once You've Got The Job](#once-youve-got-the-job)
+- [Additional Books](#additional-books)
+- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling)
+- [Additional Learning](#additional-learning)
+- [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
+- [Video Series](#video-series)
+- [Computer Science Courses](#computer-science-courses)
+- [Algorithms implementation](#algorithms-implementation)
+- [Papers](#papers)
+- [LICENSE](#license)
 
 ### Getting the Job
 
@@ -174,64 +168,65 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ### Optional Extra Topics & Resources
 
-- [Coding Interview University](#coding-interview-university)
-  - [What is it?](#what-is-it)
-  - [Table of Contents](#table-of-contents)
-    - [The Study Plan](#the-study-plan)
-    - [Topics of Study](#topics-of-study)
-    - [Getting the Job](#getting-the-job)
-    - [Optional Extra Topics \& Resources](#optional-extra-topics--resources)
-  - [Why use it?](#why-use-it)
-  - [How to use it](#how-to-use-it)
-    - [If you don't want to use git](#if-you-dont-want-to-use-git)
-    - [If you're comfortable with git](#if-youre-comfortable-with-git)
-  - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-  - [A Note About Video Resources](#a-note-about-video-resources)
-  - [Choose a Programming Language](#choose-a-programming-language)
-    - [For this Study Plan](#for-this-study-plan)
-    - [For your Coding Interview](#for-your-coding-interview)
-  - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
-    - [C](#c)
-    - [Python](#python)
-    - [Java](#java)
-    - [C++](#c-1)
-  - [Interview Prep Books](#interview-prep-books)
-    - [If you have tons of extra time:](#if-you-have-tons-of-extra-time)
-  - [Don't Make My Mistakes](#dont-make-my-mistakes)
-    - [1. You Won't Remember it All](#1-you-wont-remember-it-all)
-    - [2. Use Flashcards](#2-use-flashcards)
-    - [3. Do Coding Interview Questions While You're Learning](#3-do-coding-interview-questions-while-youre-learning)
-    - [4. Focus](#4-focus)
-  - [What you won't see covered](#what-you-wont-see-covered)
-  - [The Daily Plan](#the-daily-plan)
-  - [Coding Question Practice](#coding-question-practice)
-  - [Coding Problems](#coding-problems)
-  - [Let's Get Started](#lets-get-started)
-  - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-  - [Data Structures](#data-structures)
-  - [More Knowledge](#more-knowledge)
-  - [Trees](#trees)
-  - [Sorting](#sorting)
-  - [Graphs](#graphs)
-  - [Even More Knowledge](#even-more-knowledge)
-  - [Final Review](#final-review)
-  - [Update Your Resume](#update-your-resume)
-  - [Interview Process \& General Interview Prep](#interview-process--general-interview-prep)
-  - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
-  - [Have questions for the interviewer](#have-questions-for-the-interviewer)
-  - [Once You've Got The Job](#once-youve-got-the-job)
-  - [Additional Books](#additional-books)
-  - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling)
-  - [Additional Learning](#additional-learning)
-  - [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
-  - [Video Series](#video-series)
-  - [Computer Science Courses](#computer-science-courses)
-  - [Algorithms implementation](#algorithms-implementation)
-  - [Papers](#papers)
-  - [LICENSE](#license)
+- [What is it?](#what-is-it)
+- [Table of Contents](#table-of-contents)
+  - [The Study Plan](#the-study-plan)
+  - [Topics of Study](#topics-of-study)
+  - [Getting the Job](#getting-the-job)
+  - [Optional Extra Topics \& Resources](#optional-extra-topics--resources)
+- [Why use it?](#why-use-it)
+- [How to use it](#how-to-use-it)
+  - [If you don't want to use git](#if-you-dont-want-to-use-git)
+  - [If you're comfortable with git](#if-youre-comfortable-with-git)
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [A Note About Video Resources](#a-note-about-video-resources)
+- [Choose a Programming Language](#choose-a-programming-language)
+  - [For this Study Plan](#for-this-study-plan)
+  - [For your Coding Interview](#for-your-coding-interview)
+- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+  - [C](#c)
+  - [Python](#python)
+  - [Java](#java)
+  - [C++](#c-1)
+- [Interview Prep Books](#interview-prep-books)
+  - [If you have tons of extra time:](#if-you-have-tons-of-extra-time)
+- [Don't Make My Mistakes](#dont-make-my-mistakes)
+  - [1. You Won't Remember it All](#1-you-wont-remember-it-all)
+  - [2. Use Flashcards](#2-use-flashcards)
+  - [3. Do Coding Interview Questions While You're Learning](#3-do-coding-interview-questions-while-youre-learning)
+  - [4. Focus](#4-focus)
+- [What you won't see covered](#what-you-wont-see-covered)
+- [The Daily Plan](#the-daily-plan)
+- [Coding Question Practice](#coding-question-practice)
+- [Coding Problems](#coding-problems)
+- [Let's Get Started](#lets-get-started)
+- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [Data Structures](#data-structures)
+- [More Knowledge](#more-knowledge)
+- [Trees](#trees)
+- [Sorting](#sorting)
+- [Graphs](#graphs)
+- [Even More Knowledge](#even-more-knowledge)
+- [Final Review](#final-review)
+- [Update Your Resume](#update-your-resume)
+- [Interview Process \& General Interview Prep](#interview-process--general-interview-prep)
+- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
+- [Have questions for the interviewer](#have-questions-for-the-interviewer)
+- [Once You've Got The Job](#once-youve-got-the-job)
+- [Additional Books](#additional-books)
+- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling)
+- [Additional Learning](#additional-learning)
+- [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
+- [Video Series](#video-series)
+- [Computer Science Courses](#computer-science-courses)
+- [Algorithms implementation](#algorithms-implementation)
+- [Papers](#papers)
+- [LICENSE](#license)
 
 ---
 
+</details>
+<details>
 ## Why use it?
 
 If you want to work as a software engineer for a large company, these are the things you have to know.
@@ -590,6 +585,8 @@ Challenge/Practice sites:
 Alright, enough talk, let's learn!
 
 But don't forget to do coding problems from above while you learn!
+
+</details>
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
