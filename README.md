@@ -627,9 +627,9 @@ if you can identify the runtime complexity of different algorithms. It's a super
   - [ ] About Arrays:
     - [x] [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
       - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
-      - [] [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-      - [] [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
-      - [] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+      - [ ] [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
+      - [ ] [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
+      - [ ] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
   - [ ] Implement a vector (mutable array with automatic resizing):
     - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
     - [ ] New raw data array with allocated memory
@@ -667,7 +667,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
   - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo) - not the whole video, just portions about Node struct and memory allocation
   - [ ] Linked List vs Arrays:
     - [x] [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
-    - [] [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
+    - [ ] [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
   - [ ] [Why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
   - [ ] Gotcha: you need pointer to pointer knowledge:
         (for when you pass a pointer to a function that may change the address where that pointer points)
@@ -734,7 +734,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
   - [ ] Online Courses:
 
-    - [ ] [Core Hash Tables (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP)
+    - [x] [Core Hash Tables (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP)
     - [ ] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/4)
     - [ ] [Phone Book Problem (video)](https://www.coursera.org/lecture/data-structures/phone-book-problem-NYZZP)
     - [ ] distributed hash tables:
